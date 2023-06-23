@@ -23,17 +23,17 @@ It is a simple converter that is made using python
 # Installation
 1. Clone this repository to your local machine using this command:
    
-   ```
+   ```shell
    git clone https://github.com/pinkozz/converter
    ```
 2. Navigate to project folder:
    
-   ```
+   ```shell
    cd converter
    ```
 3. Run the program:
 
-   ```
+   ```shell
    python file_max_number.py
    ```
 # Usage
